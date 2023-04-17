@@ -48,6 +48,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
+![Javatpoint](./Develop/assets/Image%2017-4-2023%20at%202.30%20pm.jpg)  
 
 ## Challenges faced
 One of the challenges faced in this project was getting familiar with a different file structure. Another challenge was working in the command ensuring inquired was working correctly and interacting with the application was done correctly in order to get the desired result. 
