@@ -1,7 +1,7 @@
-# This
+# Password Generatore
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   ## Description
-  hmmm
+  The purpose of the generator is to generate a safe and secure password for the user. The application will prompt the user with criteria fro the password and then it will generate a password.
   ## Table of contents
   * [Descrition](#description)
   * [Installation](#installation)
@@ -12,13 +12,13 @@
 * [License](#license)
 
   ## Installation
-  ahhhh
+  The project is web based and will only require the url of the page 
   ## Usage
-  does this work
+  The user will type the desired length of the pass word answer yes or no to a set of criteria and when generate password is clicked the password will be displayed.
   ## Contributing
-  yeah
+  N/A
   ## Tests
-  lets gooo
+  n/A
   ## License
 
         Licensed under the MIT license.
